@@ -4,3 +4,5 @@ def greeter(name):
 def shout(name):
     print(f"{name}!!!!")
     
+def shush():
+    print("Shhh!")
