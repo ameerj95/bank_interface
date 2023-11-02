@@ -1,6 +1,6 @@
-def greeter(name):
-    print(f"hello! {name}")
-
-
-def shout(name):
-    print(f"{name}!!")
+num = 0
+while True:
+    print(num)
+    num = num +1
+    if num == 100:
+        break
